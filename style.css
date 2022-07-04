@@ -1,0 +1,14 @@
+body {
+    background-color: beige;
+}
+
+/* 3.7 css */
+
+h1 {
+    color: cornflowerblue;;
+}
+
+/* .active { */
+.clicked {
+    color: tomato;
+}
