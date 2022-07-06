@@ -6,8 +6,10 @@ const images = [
 
 const choosenImage = images[Math.floor(Math.random() * images.length)];
 
+// element 생성
 const bgImage = document.createElement("img");
 
 bgImage.src = `img/${choosenImage}`;
 
+// element 추가
 document.body.appendChild(bgImage);
