@@ -10,4 +10,4 @@ function getClock() {
 
 // setTimeout(sayHello, 5000);
 getClock();
-setInterval(getClock, 1000);
+setInterval(getClock, 1000);    // unit ms
