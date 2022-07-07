@@ -56,3 +56,8 @@ if (savedToDos !== null) {
     toDos = parsedToDos;
     parsedToDos.forEach(paintToDo);
 }
+// filter function 사용
+// function sexyFilter(item) {
+//     return item !== 3;
+// }
+// [1, 2, 3, 4, 5].filter(sexyFilter);
